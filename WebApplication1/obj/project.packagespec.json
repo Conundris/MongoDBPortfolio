@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\exceeds\\RiderProjects\\MongoDBPortfolio\\WebApplication1\\WebApplication1.csproj",
+    "projectUniqueName": "C:\\Users\\exceeds\\RiderProjects\\MongoDBPortfolio2\\WebApplication1\\WebApplication1.csproj",
     "projectName": "WebApplication1",
-    "projectPath": "C:\\Users\\exceeds\\RiderProjects\\MongoDBPortfolio\\WebApplication1\\WebApplication1.csproj",
-    "outputPath": "C:\\Users\\exceeds\\RiderProjects\\MongoDBPortfolio\\WebApplication1\\obj\\",
+    "projectPath": "C:\\Users\\exceeds\\RiderProjects\\MongoDBPortfolio2\\WebApplication1\\WebApplication1.csproj",
+    "outputPath": "C:\\Users\\exceeds\\RiderProjects\\MongoDBPortfolio2\\WebApplication1\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

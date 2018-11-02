@@ -1,12 +1,15 @@
+using Microsoft.AspNetCore.Mvc;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
 namespace WebApplication1.Models
 {
     [BsonIgnoreExtraElements]
+    //[ModelBinder(BinderType = typeof(ObjectIdBinder))]
     public class Exotic
     {
         [BsonId]
+        [MongoObjectID]
         public ObjectId _id { get; set; }
         [BsonElement("thumb")]
         public string thumb { get; set; }
